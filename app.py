@@ -22,7 +22,7 @@ def main():
     
     # Sidebar navigation
     with st.sidebar:
-        st.header("Navigation")
+        st.header("Laundry Dashboard")
         st.divider()
         
         col1, col2 = st.columns(2)
